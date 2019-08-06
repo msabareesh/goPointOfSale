@@ -1,2 +1,2 @@
-print "Hello World"
-print "In My Machine"
+print ("Hello World")
+print ("In My Machine")
